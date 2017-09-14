@@ -1,0 +1,9 @@
+[package]
+name = "ble-advs"
+version = "0.1.0"
+authors = ["Damian Sidor <dsidor@gmail.com>"]
+
+[dependencies]
+mio = "^0.4.3"
+libc = "0.2"
+nix = "0.9.0"
